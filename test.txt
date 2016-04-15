@@ -1,0 +1,51 @@
+
+jitendra.gamit@aertrip.com / passsssss as it
+
+
+git@gitlab.com:aertrip/php-aertrip.git
+
+
+github account :
+
+jitendragamit123
+jitendra.gamit@aertrip.com / pass as it
+
+99edc41f617e6063c584bd0ab0a55fa6e6dd48ff
+
+
+
+
+
+    backup: # mysqldump -u root -p[root_password] [database_name] > dumpfilename.sql
+
+    restore:# mysql -u root -p[root_password] [database_name] < dumpfilename.sql
+
+	
+	
+	
+	First Name :: Jitendra 
+Last Name :: Gamit 
+Full Name :: Jitendra Gamit 
+Email :: jitendra.gamit@aertrip.com 
+Password :: 
+Mobile :: 9819943810 
+Membership Number :: R-18 
+Default Country :: IN 
+Added Date :: 2016-03-29 17:49:56 
+Added By :: 0 
+Added IP :: 162.158.47.210 
+
+
+
+
+
+git config core.fscache true
+
+git config core.ignoreStat true
+
+
+
+@Multi123
+
+
+
